@@ -4,5 +4,6 @@ public class GitProgram4 {
 
         System.out.println("HelloGit");
         System.out.println("I am Vitaliy");
+        System.out.println("Go Start");
     }
 }
